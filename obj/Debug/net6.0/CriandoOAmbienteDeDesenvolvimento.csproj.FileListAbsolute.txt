@@ -1,0 +1,15 @@
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\bin\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.exe
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\bin\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.deps.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\bin\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.runtimeconfig.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\bin\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\bin\Debug\net6.0\ref\CriandoOAmbienteDeDesenvolvimento.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\bin\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.csproj.AssemblyReference.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\ref\CriandoOAmbienteDeDesenvolvimento.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\CriandoOAmbienteDeDesenvolvimento\obj\Debug\net6.0\CriandoOAmbienteDeDesenvolvimento.genruntimeconfig.cache
